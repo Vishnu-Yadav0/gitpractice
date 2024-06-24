@@ -1,2 +1,4 @@
-newtext
-adding some random text
+
+newtext --> trying to add some random text
+Hello world
+>>>>>>> 398bdd42ea9b16feb61509031ac1a3ec00d0ddd0
